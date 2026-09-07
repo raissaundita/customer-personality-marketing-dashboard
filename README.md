@@ -80,10 +80,11 @@ dynamically filter all charts and KPI cards sourced from customer-level data.
 ![Looker Studio Dashboard](overview/overview_lookerstudio.png)
 
 ## 📂 Repository Structure
+```
 ├── excel/customer_personality_analysis.xlsx # Full Excel workbook (raw data, pivots, dashboard)
 ├── overview/ # Dashboard and analysis process overview
 └── looker-studio/report-link.md # Looker Studio dashboard link
-
+```
 ## 👤 Author
 **Raissa Undita Estiningtyas**
 [LinkedIn](https://www.linkedin.com/in/raissaundita/)
